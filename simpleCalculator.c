@@ -12,6 +12,6 @@ int main(){
     p=a/b;
     printf("Quotient of the two number:=%d\n",p);
     p=a%b;
-    printf("Product of the two number:=%d\n",p);
+    printf("Reminder of the two number:=%d\n",p);
     return 0;
 }
