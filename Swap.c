@@ -9,6 +9,4 @@ int main(){
     printf("value of a after swaping:=%d\n",a);
     printf("value of b after swaping:=%d\n",b);
     return 0;
-
-
 }
